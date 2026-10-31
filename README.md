@@ -1,5 +1,6 @@
 # ai-kurz-labs
 Tréninkový repozitář pro kurz AI Engineering & Architecture.
+# Test rozcvicka
 
 ## Struktura
 - m0/ – základy Pythonu a NumPy (M0.L02)
