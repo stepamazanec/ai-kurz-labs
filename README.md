@@ -1,4 +1,4 @@
-# ai-kurz-labs
+# AI kurz – laboratoře (verze z main)
 Tréninkový repozitář pro kurz AI Engineering & Architecture.
 # Test rozcvicka
 
