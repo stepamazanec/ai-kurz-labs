@@ -1,4 +1,5 @@
-# AI kurz – laboratoře (verze z větve)
+
+# AI kurz – laboratoře
 Tréninkový repozitář pro kurz AI Engineering & Architecture.
 # Test rozcvicka
 
